@@ -67,3 +67,5 @@
 - 2023-04-21 11:39: documented implementation notes for `zero_day`.
 
 - 2023-04-24 20:34: updated project backlog context for `zero_day`.
+
+- 2023-04-25 13:15: updated project backlog context for `zero_day`.
