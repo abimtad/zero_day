@@ -85,3 +85,5 @@
 - 2023-05-04 18:10: recorded usage and setup clarification for `zero_day`.
 
 - 2023-05-08 15:27: recorded usage and setup clarification for `zero_day`.
+
+- 2023-05-10 10:19: captured maintenance observations for `zero_day`.
