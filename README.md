@@ -311,3 +311,5 @@
 - 2023-05-15 19:27: noted follow-up engineering tasks for `zero_day`.
 
 - 2023-05-15 19:28: noted follow-up engineering tasks for `zero_day`.
+
+- 2023-05-23 19:31: recorded usage and setup clarification for `zero_day`.
