@@ -105,3 +105,5 @@
 - 2023-06-05 20:42: documented implementation notes for `zero_day`.
 
 - 2023-06-06 18:16: recorded usage and setup clarification for `zero_day`.
+
+- 2023-06-07 11:22: captured maintenance observations for `zero_day`.
