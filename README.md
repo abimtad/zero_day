@@ -119,3 +119,5 @@
 - 2023-06-19 13:11: noted follow-up engineering tasks for `zero_day`.
 
 - 2023-06-20 14:01: noted follow-up engineering tasks for `zero_day`.
+
+- 2023-06-21 18:09: updated project backlog context for `zero_day`.
