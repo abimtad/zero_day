@@ -211,3 +211,5 @@
 - 2023-11-15 12:11: noted follow-up engineering tasks for `zero_day`.
 
 - 2023-11-15 12:12: captured maintenance observations for `zero_day`.
+
+- 2023-11-17 10:48: recorded usage and setup clarification for `zero_day`.
