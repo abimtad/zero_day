@@ -221,3 +221,5 @@
 - 2023-11-23 10:37: updated project backlog context for `zero_day`.
 
 - 2023-11-27 13:03: recorded usage and setup clarification for `zero_day`.
+
+- 2023-12-02 18:23: noted follow-up engineering tasks for `zero_day`.
